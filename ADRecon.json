@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "ADRecon-master",
+    "url":  "https://github.com/sense-of-security/ADRecon/archive/master.zip#/ADRecon.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/sense-of-security/ADRecon/",
+    "hash":  "",
+    "bin":  ""
+}

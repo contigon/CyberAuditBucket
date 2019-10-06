@@ -1,0 +1,17 @@
+{
+    "version": "1.5.0.0",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://www.crowdstrike.com/resources/community-tools/",
+    "depends": "",
+    "homepage": "https://www.crowdstrike.com/resources/community-tools/",
+    "hash": "422a57fab010c8bc6fc6b992e7909c25aa56a6b4f85cd7fa6dff8ff33726e2dc",
+    "bin": "CrowdInspect.exe",
+    "checkver": {
+        "url": "https://www.crowdstrike.com/resources/community-tools/",
+        "regex": "CrowdInspect\\. Version ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://www.crowdstrike.com/resources/community-tools/"
+    }
+}

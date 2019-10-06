@@ -1,0 +1,14 @@
+{
+    "version": "1.4.3.0",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://github.com/yosqueoy/ditsnap/releases/download/1.4.3.0/ditsnap.exe",
+    "depends": "",
+    "homepage": "https://github.com/yosqueoy/ditsnap",
+    "hash": "1ba63dd41852d5922bef82e5d5c07ae029c252bb6c4bd40673d3840d1a88c06c",
+    "bin": "ditsnap.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/yosqueoy/ditsnap/releases/download/$version/ditsnap.exe"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "version": "3.2.1",
+    "license": "",
+    "extract_dir": "",
+    "url": "http://www.parmavex.co.uk/WinAudit.zip",
+    "depends": "",
+    "homepage": "http://www.parmavex.co.uk/winaudit.html",
+    "hash": "0af33a6baf9aaa809524fa69a9a5f895a20d9edc43d339c576ea2d6bd0338051",
+    "description": "inventory utility for Windows computers",
+    "bin": "WinAudit.exe",
+    "checkver": "WinAudit\\.exe v([\\d.]+)",
+    "autoupdate": {
+        "url": "http://www.parmavex.co.uk/WinAudit.zip"
+    }
+}

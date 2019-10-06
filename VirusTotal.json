@@ -1,0 +1,14 @@
+﻿{
+    "version":  "0.7.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/VirusTotal/vt-cli/releases/download/0.7.0/Windows64.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/VirusTotal/vt-cli/",
+    "hash":  "",
+    "bin":  "vt.exe",
+    "checkver": {
+        "url": "https://github.com/VirusTotal/vt-cli/releases",
+        "re": " <a href=\"\/VirusTotal\/vt-cli\/tree\/(.*)\" class"
+    }
+}

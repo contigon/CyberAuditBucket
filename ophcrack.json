@@ -1,0 +1,17 @@
+{
+    "version": "3.8.0",
+    "license": "",
+    "extract_dir": "x64",
+    "url": "https://netix.dl.sourceforge.net/project/ophcrack/ophcrack/3.8.0/ophcrack-3.8.0-bin.zip",
+    "depends": "",
+    "homepage": "",
+    "hash": "sha1:f7975e274bc4344080cab23408f78e9ad659e857",
+    "bin": "ophcrack.exe",
+    "checkver": {
+        "url": "https://sourceforge.net/projects/ophcrack/files/ophcrack",
+        "regex": "ophcrack/([\\d.]+)/\""
+    },
+    "autoupdate": {
+        "url": "https://netix.dl.sourceforge.net/project/ophcrack/ophcrack/$version/ophcrack-$version-bin.zip"
+    }
+}

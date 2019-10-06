@@ -1,0 +1,14 @@
+{
+    "version": "1.5",
+    "license": "",
+    "extract_dir": "ketshash-master",
+    "url": "https://github.com/cyberark/ketshash/archive/master.zip",
+    "depends": "",
+    "homepage": "https://github.com/cyberark/ketshash",
+    "hash": "1fc0d7605d6d978f71c1695853ac917e06ff9e66ce900ea926074fc4533e3c3e",
+    "bin": "KetshashRunner.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cyberark/ketshash/archive/master.zip"
+    }
+}

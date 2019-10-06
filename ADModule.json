@@ -1,0 +1,13 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "ADModule-master",
+    "url":  "https://github.com/CBHue/ADModule/archive/master.zip#/ADModule.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/CBHue/ADModule",
+    "hash":  "",
+     "psmodule": {
+        "name": "ActiveDirectory"
+    },
+    "pre_install":" Import-Module \"$dir\\Microsoft.ActiveDirectory.Management.dll\" -Verbose"
+}

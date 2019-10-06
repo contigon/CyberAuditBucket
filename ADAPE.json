@@ -1,0 +1,10 @@
+﻿{
+    "version":  "2.0",
+    "license":  "",
+    "extract_dir":  "ADAPE-Script-master",
+    "url":  "https://github.com/hausec/ADAPE-Script/archive/master.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/hausec/ADAPE-Script/archive/master.zip",
+    "hash":  "",
+    "bin":  "ADAPE.ps1"
+}

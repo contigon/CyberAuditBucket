@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "Powershell-snippets-master",
+    "url":  "https://github.com/ArnaudLoos/Powershell-snippets/archive/master.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/ArnaudLoos/Powershell-snippets",
+    "hash":  "",
+    "bin":  ["Domain_Audit_Summary.ps1","GP_Link_Report.ps1","Domain_Audit_Extended.ps1"]
+}

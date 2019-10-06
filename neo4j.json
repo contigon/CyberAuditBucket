@@ -1,0 +1,18 @@
+{
+    "version": "3.5.11",
+    "license": "",
+    "extract_dir": "neo4j-community-3.5.11",
+    "url": "https://neo4j.com/artifact.php?name=neo4j-community-3.5.11-windows.zip#/neo4j-community.zip#/neo4j.zip",
+    "depends": "",
+    "homepage": "",
+    "hash": "f6a71eb7a2a86ab7d11a10dc1af288f12fdaeeca67f8c8545bc755d311ce357e",
+    "bin": "bin\\neo4j.bat",
+    "checkver": {
+        "url": "https://neo4j.com/download/",
+        "regex": "([\\d.]+) for Developers"
+    },
+    "autoupdate": {
+        "url": "https://neo4j.com/artifact.php?name=neo4j-community-$version-windows.zip#/neo4j-community.zip#/neo4j.zip",
+        "extract_dir": "neo4j-community-$version"
+    }
+}

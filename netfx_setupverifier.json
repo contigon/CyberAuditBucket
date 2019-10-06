@@ -1,0 +1,18 @@
+{
+    "version": "17.05.2018",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://msdnshared.blob.core.windows.net/media/2018/05/netfx_setupverifier_new.zip",
+    "depends": "",
+    "homepage": "https://blogs.msdn.microsoft.com/astebner/2008/10/13/net-framework-setup-verification-tool-users-guide/",
+    "hash": "13fd683fd604f9de09a9e649df303100b81e6797f868024d55e5c2f3c14aa9a6",
+    "bin": "netfx_setupverifier.exe",
+    "checkver": {
+        "url": "https://www.softpedia.com/get/Programming/Other-Programming-Files/NET-Framework-Setup-Verification-Utility.shtml",
+        "regex": "NET Framework Setup Verification Utility ([\\d.]+)-([\\d.]+)-([\\d.]+) for Windows",
+        "replace": "${1}.${2}.${3}"
+    },
+    "autoupdate": {
+        "url": "https://msdnshared.blob.core.windows.net/media/$match3/$match2/netfx_setupverifier_new.zip"
+    }
+}

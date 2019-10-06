@@ -1,0 +1,28 @@
+{
+    "version": "7.2.100.28",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://cdn.lansweeper.com/download/7.2.100/28/LansweeperSetup.exe",
+    "depends": "",
+    "homepage": "https://www.lansweeper.com/changelog/",
+    "hash": "fc043dc8e4b93dceaccefec162a9001021ea5cff11a25c748f323bf5fd9134bc",
+    "bin": "",
+    "installer": {
+        "args": [
+            "/silent",
+            "/Dir=$dir"
+        ]
+    },
+    "uninstaller": {
+        "file": "unins000.exe",
+        "args": "/silent"
+    },
+    "checkver": {
+        "url": "https://www.lansweeper.com/changelog/",
+        "regex": "([\\d.]+)\\.([\\d.]+)\\.([\\d.]+)\\.([\\d.]+)",
+        "replace": "${1}.${2}.${3}.${4}"
+    },
+    "autoupdate": {
+        "url": "https://cdn.lansweeper.com/download/$match1.$match2.$match3/$match4/LansweeperSetup.exe"
+    }
+}

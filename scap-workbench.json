@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "PFiles\\scap-workbench",
+    "url":  "https://www.open-scap.org/tools/scap-workbench/download-win32#/scap-workbench-1.1.5-1.msi",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "scap-workbench.exe",
+    "checkver": {
+        "url": "https://github.com/OpenSCAP/scap-workbench/releases",
+        "re": "Latest release.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*scap-workbench\/tree\/(.*)\" class"
+    },
+    "autoupdate": {
+        "url": "https://github.com/OpenSCAP1/scap-workbench/archive/master.zip"
+    }
+}

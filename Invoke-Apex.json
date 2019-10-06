@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "Invoke-Apex-master",
+    "url":  "https://github.com/securemode/Invoke-Apex/archive/master.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "Invoke-Apex.psd1"
+}

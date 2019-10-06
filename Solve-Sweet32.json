@@ -1,0 +1,18 @@
+﻿{
+    "version":  "9.11.2018",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://gallery.technet.microsoft.com/Solve-SWEET32-Birthday-d2df9cf1/file/203491/1/Solve-Sweet32.ps1",
+    "depends":  "",
+    "homepage":  "https://gallery.technet.microsoft.com/scriptcenter/Solve-SWEET32-Birthday-d2df9cf1",
+    "hash":  "",
+    "bin":  "Solve-Sweet32.ps1",
+    "checkver": {
+        "url": "https://gallery.technet.microsoft.com/scriptcenter/Solve-SWEET32-Birthday-d2df9cf1",
+        "re": "span id=\"LastUpdated\">.*\n.*(\\d{1,})\/(\\d*)\/(\\d*)",
+        "replace": "${1}.${2}.${3}"
+    },
+    "autoupdate": {
+        "url": "https://gallery.technet.microsoft.com/Solve-SWEET32-Birthday-d2df9cf1/file/203491/1/Solve-Sweet32.ps1"
+    }
+}

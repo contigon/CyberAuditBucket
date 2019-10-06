@@ -1,0 +1,14 @@
+﻿{
+    "version":  "6.16.2019",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://gallery.technet.microsoft.com/scriptcenter/Windows-Unquoted-Service-190f0341/file/136821/8/Windows_Path_Enumerate.ps1",
+    "depends":  "",
+    "homepage":  "https://gallery.technet.microsoft.com/scriptcenter/Windows-Unquoted-Service-190f0341",
+    "hash":  "",
+    "bin":  "Windows_Path_Enumerate.ps1",
+    "checkver": {
+        "url": "https://gallery.technet.microsoft.com/scriptcenter/Windows-Unquoted-Service-190f0341",
+        "regex": "([\\d.]+\/[\\d.]+\/[\\d.]+)"
+    }
+}

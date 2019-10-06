@@ -1,0 +1,19 @@
+﻿{
+    "version":  "8.2.2.1",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=239858_230deb18db3e4014bb8e3e8324f81b43#/jre-8u221-windows-x64.exe",
+    "depends":  "",
+    "homepage":  "https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html",
+    "hash":  "",
+    "bin":  "",
+     "installer": { 
+	"args": [
+		"INSTALLCFG=\"$dir\\..\\..\\..\\..\\JavaRuntime8Install.cfg"
+		]
+	},
+    "uninstaller": {
+        "script": " Get-Package \"Java 8 Update 221 (64-bit)\" | Uninstall-Package"
+    }
+	
+}

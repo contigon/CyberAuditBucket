@@ -1,0 +1,17 @@
+{
+    "version": "2.7.1.1",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://github.com/vletoux/pingcastle/releases/download/2.7.1.1/PingCastle_2.7.1.1.zip",
+    "depends": "",
+    "homepage": "https://github.com/vletoux/pingcastle",
+    "hash": "f213ee2b2651c33a562002982c05aacaa01162671e0f1127c9dba64e9a2bf011",
+    "bin": [
+        "PingCastle.exe",
+        "PingCastleReporting.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/vletoux/pingcastle/releases/download/$version/PingCastle_$version.zip"
+    }
+}

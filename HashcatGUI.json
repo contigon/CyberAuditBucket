@@ -1,0 +1,17 @@
+{
+    "version": "1.1beta0",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://hashkiller.co.uk/downloads/HashcatGUI_1.1beta0.zip",
+    "depends": "",
+    "homepage": "",
+    "hash": "9de45693fd6a3f6abea20fe877e1ee9f3b34f4d97b18ece2ad8ffd58995c64ce",
+    "bin": "HashcatGUI.exe",
+    "checkver": {
+        "url": "https://hashkiller.co.uk/Tools/HashcatGUI",
+        "re": "HashcatGUI_([\\d.]+\\w*)"
+    },
+    "autoupdate": {
+        "url": "https://hashkiller.co.uk/downloads/HashcatGUI_$version.zip"
+    }
+}

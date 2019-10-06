@@ -1,0 +1,14 @@
+{
+    "version": "2.2.1",
+    "license": "",
+    "extract_dir": "BloodHound-win32-x64",
+    "url": "https://github.com/BloodHoundAD/BloodHound/releases/download/2.2.1/BloodHound-win32-x64.zip#/BloodHoundAD.zip",
+    "depends": "",
+    "homepage": "https://github.com/BloodHoundAD/BloodHound",
+    "hash": "5612ea4ef90043eb2d52ecff3ed05608f0ca76412f5466d37b9b8e0dabc51a05",
+    "bin": "BloodHound.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/BloodHoundAD/BloodHound/releases/download/$version/BloodHound-win32-x64.zip#/BloodHoundAD.zip"
+    }
+}

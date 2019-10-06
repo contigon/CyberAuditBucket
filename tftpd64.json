@@ -1,0 +1,14 @@
+﻿{
+    "version":  "4.64",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://bitbucket.org/phjounin/tftpd64/downloads/tftpd64.464.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "tftpd64.exe",
+    "checkver": {
+        "url": "https://bitbucket.org/phjounin/tftpd64/wiki/Download%20Tftpd64.md",
+        "re": "Recommended Download \\(now v(.*)\\)"
+    }
+}

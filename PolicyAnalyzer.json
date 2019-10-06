@@ -1,0 +1,10 @@
+﻿{
+    "version":  "5-23-2019",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://download.microsoft.com/download/8/5/C/85C25433-A1B0-4FFA-9429-7E023E7DA8D8/PolicyAnalyzer.zip",
+    "depends":  "",
+    "homepage":  "https://www.microsoft.com/en-us/download/details.aspx?id=55319",
+    "hash":  "",
+    "bin":  "PolicyAnalyzer.exe"
+}

@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "PRET-master",
+    "url":  "https://github.com/RUB-NDS/PRET/archive/master.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/RUB-NDS/PRET/",
+    "hash":  "",
+    "bin":  "pret.py"
+}

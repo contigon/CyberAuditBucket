@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "http://stahlworks.com/dev/sfk/sfk.exe",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "sfk.exe",
+    "checkver": {
+        "url": "http://stahlworks.com/dev/swiss-file-knife.html",
+        "re": "The current version is <b>(.*)<\/b>"
+    },
+    "autoupdate": {
+        "url": "http://stahlworks.com/dev/sfk/sfk.exe"
+    }
+}

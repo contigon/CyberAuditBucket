@@ -1,0 +1,10 @@
+﻿{
+    "version":  "2.2",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://download.microsoft.com/download/f/f/1/ff1819f9-f702-48a5-bbc7-c9656bc74de8/LogParser.msi",
+    "depends":  "",
+    "homepage":  "https://www.microsoft.com/en-us/download/details.aspx?id=24659",
+    "hash":  "",
+    "bin":  "program files\\Log Parser 2.2\\LogParser.exe"
+}

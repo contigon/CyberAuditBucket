@@ -1,0 +1,14 @@
+{
+    "version": "1.2",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://github.com/NetSPI/goddi/releases/download/v1.2/goddi-windows-amd64.exe",
+    "depends": "",
+    "homepage": "https://github.com/NetSPI/goddi/",
+    "hash": "b3d74458da7006fb7b453c4880ca1cd7555c353ae6edb775470153064cb4794d",
+    "bin": "goddi-windows-amd64.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/NetSPI/goddi/releases/download/v$version/goddi-windows-amd64.exe"
+    }
+}

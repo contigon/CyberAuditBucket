@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "enumdb-master",
+    "url":  "https://github.com/m8r0wn/enumdb/archive/master.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "enumdb.py"
+}

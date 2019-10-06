@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "PowerCLI-Example-Scripts-master\\Scripts",
+    "url":  "https://github.com/vmware/PowerCLI-Example-Scripts/archive/master.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "Save-PowerCLI.ps1"
+}

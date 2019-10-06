@@ -1,0 +1,14 @@
+{
+    "version": "1.01",
+    "license": "",
+    "extract_dir": "ccat-master",
+    "url": "https://github.com/cisco-config-analysis-tool/ccat/archive/master.zip",
+    "depends": "",
+    "homepage": "https://github.com/cisco-config-analysis-tool/ccat",
+    "hash": "d1fb399fc19caef55e521bec13cdb66629890169eb64e10bd875279803d2eeff",
+    "bin": "ccat.py",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cisco-config-analysis-tool/ccat/archive/master.zip"
+    }
+}

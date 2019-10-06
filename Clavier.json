@@ -1,0 +1,17 @@
+{
+    "version": "10.8.3",
+    "license": "",
+    "extract_dir": "",
+    "url": "http://utilfr42.free.fr/dn/Clavier64.zip",
+    "depends": "",
+    "homepage": "http://utilfr42.free.fr/util/Clavier.php",
+    "hash": "c6cca8c49a87810f70910a5b06e3fd7494f98ab75c76dc98ae5cb55d00f82b2b",
+    "bin": "Clavier.exe",
+    "checkver": {
+        "url": "http://utilfr42.free.fr/util/Clavier.php",
+        "re": " Clavier\\+ ([\\d.]+).* 64 bits"
+    },
+    "autoupdate": {
+        "url": "http://utilfr42.free.fr/dn/Clavier64.zip"
+    }
+}

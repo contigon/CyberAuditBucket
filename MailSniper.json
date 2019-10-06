@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "MailSniper-master",
+    "url":  "https://github.com/dafthack/MailSniper/archive/master.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "MailSniper.ps1"
+}
