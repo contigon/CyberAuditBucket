@@ -5,7 +5,7 @@
     "url": "https://github.com/canix1/ADACLScanner/archive/master.zip",
     "depends": "",
     "homepage": "https://github.com/canix1/ADACLScanner",
-    "hash": "fd58f003708c60b7d67560247937c2cbf3d690957f5bc69be35791edc9bf1a10",
+    "hash": ,
     "bin": "ADACLScan.ps1",
     "checkver": {
         "url": "https://github.com/canix1/ADACLScanner",
