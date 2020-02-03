@@ -5,7 +5,7 @@
     "url": "https://github.com/cisco-config-analysis-tool/ccat/archive/master.zip",
     "depends": "",
     "homepage": "https://github.com/cisco-config-analysis-tool/ccat",
-    "hash": "d1fb399fc19caef55e521bec13cdb66629890169eb64e10bd875279803d2eeff",
+    "hash": "b9a209ed5d35e3ab4edd45ee955aceed082b2f5f1a8b79a3ac938812efe754cd",
     "bin": "ccat.py",
     "checkver": "github",
     "autoupdate": {
