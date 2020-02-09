@@ -10,6 +10,6 @@
     "pre_install": "Rename-Item \"$dir\\Monkey Island v1.6.3.3468.exe\" \"$dir\\MonkeyIslandSetup.exe\"",
     "checkver": "github",
     "autoupdate": {
-        "url": https://github.com/guardicore/monkey/releases/download/v$version/monkey-windows-64.exe"
+        "url": "https://github.com/guardicore/monkey/releases/download/v$version/monkey-windows-64.exe"
     }
 }
