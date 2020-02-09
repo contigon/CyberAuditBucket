@@ -5,7 +5,7 @@
     "url":  "https://gallery.technet.microsoft.com/Export-Last-Logon-Times-4fcb07cb/file/218047/1/Export-LastLogonTime.ps1",
     "depends":  "",
     "homepage":  "",
-    "hash":  "",
+    "hash":  "cf2a4a127a43f5f073d7569f851dd06fc0147d3b764ef272731c35f916c17e5a",
     "bin":  "Export-LastLogonTime.ps1",
     "checkver": {
         "url": "https://gallery.technet.microsoft.com/scriptcenter/Export-Last-Logon-Times-4fcb07cb",
