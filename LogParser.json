@@ -5,6 +5,6 @@
     "url":  "https://download.microsoft.com/download/f/f/1/ff1819f9-f702-48a5-bbc7-c9656bc74de8/LogParser.msi",
     "depends":  "",
     "homepage":  "https://www.microsoft.com/en-us/download/details.aspx?id=24659",
-    "hash":  "",
+    "hash":  "7bbfdfb52a8d92a105ed2fccdf0e44d8fb2ed49f0358390dd921886c14e9e32c",
     "bin":  "program files\\Log Parser 2.2\\LogParser.exe"
 }
