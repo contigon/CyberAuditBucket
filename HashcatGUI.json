@@ -5,7 +5,7 @@
     "url": "https://hashkiller.co.uk/downloads/HashcatGUI_1.1beta0.zip",
     "depends": "",
     "homepage": "",
-    "hash": "21e7141100cf6ad73233aecad23a09715a8d0faa1f6b9b50fe6ea621302b7db0",
+    "hash": "",
     "bin": "HashcatGUI.exe",
     "checkver": {
         "url": "https://hashkiller.co.uk/Tools/HashcatGUI",
