@@ -5,7 +5,7 @@
     "url": "https://www.crowdstrike.com/resources/community-tools/",
     "depends": "",
     "homepage": "https://www.crowdstrike.com/resources/community-tools/",
-    "hash": "977ea9c54dd6a99ecaf5693e8b2b22b152d623fe4cd96a11453b7ff25a652ffb",
+    "hash": "01244d09bd516812990adfcefe0e85f3cd0124fd4b96a7ee415649c2a606a063",
     "bin": "CrowdInspect.exe",
     "checkver": {
         "url": "https://www.crowdstrike.com/resources/community-tools/",
