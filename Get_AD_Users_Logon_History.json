@@ -5,7 +5,7 @@
     "url":  "https://gallery.technet.microsoft.com/scriptcenter/Get-All-AD-Users-Logon-9e721a89/file/173176/1/Get_AD_Users_Logon_History.ps1",
     "depends":  "",
     "homepage":  "https://gallery.technet.microsoft.com/scriptcenter/Get-All-AD-Users-Logon-9e721a89",
-    "hash":  "",
+    "hash":  "c75906dbc3078ff81092f6a799c31afc79b1dece29db696b2ecf27951a86a1b2",
     "bin":  "Get_AD_Users_Logon_History.ps1",
     "checkver": {
         "url": "https://gallery.technet.microsoft.com/scriptcenter/Get-All-AD-Users-Logon-9e721a89",
