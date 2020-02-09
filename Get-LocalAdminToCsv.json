@@ -5,7 +5,7 @@
     "url":  "https://gallery.technet.microsoft.com/Query-members-of-Local-d0f393a6/file/76962/3/Get-LocalAdminToCsv.ps1",
     "depends":  "",
     "homepage":  "https://gallery.technet.microsoft.com/Query-members-of-Local-d0f393a6",
-    "hash":  "",
+    "hash":  "47a0513022add5c699e31540f5ae465112b08f0171b9584883b1bdb59f02ab6d",
     "bin":  "Get-LocalAdminToCsv.ps1",
     "checkver": {
         "url": "https://gallery.technet.microsoft.com/Query-members-of-Local-d0f393a6",
