@@ -5,7 +5,7 @@
     "url":  "https://kb.vmware.com/sfc/servlet.shepherd/version/download/068f4000009Fi1SAAS#/HTAwareMitigation-1.0.0.19.zip",
     "depends":  "",
     "homepage":  "https://kb.vmware.com/s/article/56931",
-    "hash":  "",
+    "hash":  "c99f706c7a419ae346ec993b08e8f60dfe35d1ca07eeb7d887e7954f0cfa9f51",
     "psmodule": {
         "name": "HTAwareMitigation"
     }
