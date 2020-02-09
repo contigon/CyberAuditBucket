@@ -6,7 +6,7 @@
     "depends": "",
     "homepage": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
     "hash": "b607dcb9221c198b3904521b6a8d042befb7d27792966a2a096595752264b2b4",
-    "bin": "mysql-connector-java-8.0.15.jar",
+    "bin": "mysql-connector-java-8.0.17.jar",
     "checkver": {
         "url": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
         "regex": "MySQL Installer ([\\d.]+)"
