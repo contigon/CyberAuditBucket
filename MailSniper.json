@@ -5,6 +5,6 @@
     "url":  "https://github.com/dafthack/MailSniper/archive/master.zip",
     "depends":  "",
     "homepage":  "",
-    "hash":  "",
+    "hash":  "f83cc976c8971161645a0afe6e1d13b07921501ff5eebc01faeba9fb5959b5df",
     "bin":  "MailSniper.ps1"
 }
