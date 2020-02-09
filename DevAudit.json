@@ -1,7 +1,7 @@
 {
     "version": "3.3.0",
     "license": "",
-    "extract_dir": "DevAudit",
+    "extract_dir": "DevAudit_3.3.0.0",
     "url": "https://github.com/OSSIndex/DevAudit/releases/download/v3.3.0/DevAudit_3.3.0.0.zip",
     "depends": "",
     "homepage": "https://github.com/OSSIndex/DevAudit",
