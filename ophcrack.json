@@ -2,7 +2,7 @@
     "version": "3.8.0",
     "license": "",
     "extract_dir": "x64",
-    "url": "https://svwh.dl.sourceforge.net/project/ophcrack/ophcrack/3.8.0/ophcrack-3.8.0-bin.zip",
+    "url": "https://sourceforge.net/projects/ophcrack/files/ophcrack/3.8.0/ophcrack-3.8.0-bin.zip/download",
     "depends": "",
     "homepage": "",
     "hash": "sha1:f7975e274bc4344080cab23408f78e9ad659e857",
@@ -12,6 +12,6 @@
         "regex": "ophcrack/([\\d.]+)/\""
     },
     "autoupdate": {
-        "url": "https://svwh.dl.sourceforge.net/project/ophcrack/ophcrack/$version/ophcrack-$version-bin.zip"
+        "url": "https://sourceforge.net/projects/ophcrack/files/ophcrack/$version/ophcrack-$version-bin.zip/download/"
     }
 }
