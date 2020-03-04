@@ -1,8 +1,8 @@
 {
     "version":  "1.0",
     "license":  "",
-    "extract_dir":  "",
-    "url":  "https://drive.google.com/uc?export=download&confirm=oAQI&id=1kQOPRigQmc4ee5khIJegiyuWqvg6J2_2#/Scuba-Windows.7z",
+    "extract_dir":  "Scuba-Windows",
+    "url":  "https://github.com/contigon/Downloads/raw/master/Scuba-Windows.zip",
     "depends":  "",
     "homepage":  "hhttps://www.imperva.com/lg/lgw_trial.asp?pid=213",
     "hash":  "",
