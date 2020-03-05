@@ -1,0 +1,10 @@
+{
+    "version": "3.0.2",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://github.com/contigon/Downloads/raw/master/SharpHound.zip",
+    "depends": "",
+    "homepage": "https://github.com/BloodHoundAD/BloodHound",
+    "hash": "",
+    "bin": ""
+}
