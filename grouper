@@ -1,0 +1,14 @@
+{
+    "version": "0.9.62",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://github.com/l0ss/Grouper2/releases/download/0.9.62/Grouper2.exe",
+    "depends": "",
+    "homepage": "https://github.com/l0ss/Grouper2",
+    "hash": "",
+    "bin": "Grouper2.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/l0ss/Grouper2/releases/download/$version/Grouper2.exe"
+    }
+}
