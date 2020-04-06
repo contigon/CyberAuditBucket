@@ -2,7 +2,7 @@
     "version":  "1.0",
     "license":  "",
     "extract_dir":  "",
-    "url":  ["https://gitlab.com/kalilinux/packages/wordlists/-/raw/kali/master/rockyou.txt.gz",]
+    "url":  ["https://gitlab.com/kalilinux/packages/wordlists/-/raw/kali/master/rockyou.txt.gz","https://github.com/contigon/Downloads/raw/master/l33tpasspro.rule.zip"]
     "depends":  "",
     "homepage":  "https://gitlab.com/kalilinux/packages/wordlists",
     "hash":  "",
