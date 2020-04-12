@@ -5,5 +5,10 @@
     "url":  "https://github.com/sensepost/ruler/releases/download/2.3/ruler-win64.exe",
     "depends":  "",
     "homepage":  "https://github.com/sensepost/ruler",
-    "hash":  ""
+    "hash": "",
+    "bin": "ruler-win64.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Neo23x0/Loki/releases/download/v$version/ruler-win64.exe"
+    }
 }
