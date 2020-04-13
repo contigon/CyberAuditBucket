@@ -7,7 +7,7 @@
     "homepage":  "https://github.com/guardicore/monkey",
     "hash":  "",
     "bin":  "",
-    "pre_install": """,
+    "pre_install": "",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/guardicore/monkey/releases/download/v$version/monkey-windows-64.exe"
