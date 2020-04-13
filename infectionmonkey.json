@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.6.2",
+    "version":  "1.7.0",
     "license":  "",
     "extract_dir":  "",
-    "url":  "https://github.com/guardicore/monkey/releases/download/v1.6.3/monkey-windows-64.exe",
+    "url":  "https://github.com/guardicore/monkey/releases/download/v1.7.0/monkey-windows-64.exe",
     "depends":  "",
     "homepage":  "https://github.com/guardicore/monkey",
     "hash":  "",
     "bin":  "",
-    "pre_install": "Rename-Item \"$dir\\Monkey Island v1.6.3.3468.exe\" \"$dir\\MonkeyIslandSetup.exe\"",
+    "pre_install": """,
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/guardicore/monkey/releases/download/v$version/monkey-windows-64.exe"
