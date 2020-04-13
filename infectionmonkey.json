@@ -8,7 +8,5 @@
     "hash":  "",
     "bin":  "",
     "pre_install": "",
-    "checkver": "github",
-    "autoupdate": ""
     }
 }
