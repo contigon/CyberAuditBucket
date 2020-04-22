@@ -1,0 +1,14 @@
+{
+    "version": "1.2.3",
+    "license": "",
+    "extract_dir": "ApplicationInspector_1.2.3",
+    "url": "https://github.com/microsoft/ApplicationInspector/releases/download/v1.2.3/ApplicationInspector_windows_1.2.3.zip",
+    "depends": "",
+    "homepage": "https://www.microsoft.com/security/blog/2020/01/16/introducing-microsoft-application-inspector/",
+    "hash": "",
+    "bin": "",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/microsoft/ApplicationInspector/releases/download/v$Version/ApplicationInspector_windows_$Version.zip"
+    }
+}
