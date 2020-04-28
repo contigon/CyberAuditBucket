@@ -1,10 +1,16 @@
 {
-    "version":  "12.0",
+    "version":  "12.0.6219.1000",
     "license":  "",
     "extract_dir":  "",
     "url":  "https://drive.google.com/uc?export=download&id=1krSzIFGcZLMxlDtWMPjp3dwyFrafAbfz#/ExcelViwer.exe",
     "depends":  "",
     "homepage":  "http://microsoft.com/",
     "hash":  "",
-    "bin":  ""
+    "bin":  "ExcelViwer.exe",
+    "installer": {
+    "args": [
+        "/quiet",
+        "/norestart"
+    ]
+    }
 }
