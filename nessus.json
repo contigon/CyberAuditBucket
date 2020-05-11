@@ -8,8 +8,7 @@
     "hash":  "",
     "bin":  "",
     "installer": {
-    "script": [
-        "Join-File \"$dir\\Nessus-8.10.0-x64.msi\" -DeletePartFiles"
+    "script": ["Join-File \"$dir\\Nessus-8.10.0-x64.msi\" -DeletePartFiles"]
     },
     "post_install": "Start-Process msiexec.exe -Wait -ArgumentList \"$dir\\Nessus-8.10.0-x64.msi\""
 }
