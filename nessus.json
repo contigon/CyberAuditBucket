@@ -2,7 +2,7 @@
     "version":  "8.10.0",
     "license":  "",
     "extract_dir":  "",
-    "url":  ["Extract Nessus-8.10.0-x64.msi","Nessus-8.10.0-x64.msi.00.part","Nessus-8.10.0-x64.msi.01.part","Nessus-8.10.0-x64.msi.02.part","Nessus-8.10.0-x64.msi.03.part","Nessus-8.10.0-x64.msi.04.part","Nessus-8.10.0-x64.msi.05.part.ps1"],
+    "url":  ["https://github.com/contigon/Downloads/raw/master/Extract Nessus-8.10.0-x64.msi","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.00.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.01.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.02.part","Nessus-8.10.0-x64.msi.03.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.04.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.05.part.ps1"],
     "depends":  "",
     "homepage":  "https://www.tenable.com/",
     "hash":  "",
