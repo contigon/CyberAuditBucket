@@ -6,7 +6,7 @@
     "depends":  "",
     "homepage":  "https://www.tenable.com/",
     "hash":  "",
-    "bin":  "",
+    "bin":  "Nessus-8.10.0-x64.msi",
     "installer": {
     "script": [
         "Join-File \"$dir\\Nessus-8.10.0-x64.msi\" -DeletePartFiles"
