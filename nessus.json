@@ -2,15 +2,14 @@
     "version":  "8.10.0",
     "license":  "",
     "extract_dir":  "",
-    "url":  ["https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.00.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.01.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.02.part","Nessus-8.10.0-x64.msi.03.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.04.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.05.part.ps1"],
+    "url":  ["https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.00.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.01.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.02.part","Nessus-8.10.0-x64.msi.03.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.04.part"],
     "depends":  "",
     "homepage":  "https://www.tenable.com/",
     "hash":  "",
     "bin":  "",
     "installer": {
     "script": [
-        "Get-ChildItem \"$dir\\Bandizip.x*.exe\" | Remove-Item",
-        "if (!(Test-Path \"$persist_dir\\Bandizip.ini\")) { New-Item \"$dir\\Bandizip.ini\" | Out-Null }"
+        "Join-File \"$dir\\Nessus-8.10.0-x64.msi\" -DeletePartFiles"
     ]
 }
 }
