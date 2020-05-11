@@ -6,5 +6,8 @@
     "depends":  "",
     "homepage":  "https://github.com/ZephrFish/NessusPreFlight",
     "hash":  "",
-    "bin":  "NPF.ps1"
+    "bin":  "NPF.ps1",
+     "psmodule": {
+    "name": "NPF"
+     }
 }
