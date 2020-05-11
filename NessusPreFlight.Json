@@ -1,0 +1,10 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "NessusPreFlight-master",
+    "url":  "https://github.com/ZephrFish/NessusPreFlight/archive/master.zip#/NessusPreFlight-master.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/ZephrFish/NessusPreFlight",
+    "hash":  "",
+    "bin":  "NPF.ps1"
+}
