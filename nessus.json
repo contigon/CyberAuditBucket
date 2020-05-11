@@ -1,7 +1,7 @@
 {
     "version":  "8.10.0",
     "license":  "",
-    "extract_dir":  "Files/Tenable/Nessus",
+    "extract_dir":  "",
     "url":  ["https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.00.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.01.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.02.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.03.part","https://github.com/contigon/Downloads/raw/master/Nessus-8.10.0-x64.msi.04.part"],
     "depends":  "",
     "homepage":  "https://www.tenable.com/",
@@ -10,6 +10,6 @@
     "installer": {
     "script": [
         "Join-File \"$dir\\Nessus-8.10.0-x64.msi\" -DeletePartFiles"
-    ]
-}
+    },
+    "post_install": "Start-Process msiexec.exe -Wait -ArgumentList \"$dir\\Nessus-8.10.0-x64.msi\""
 }
