@@ -1,0 +1,10 @@
+{
+    "version":  "1.01",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://dl.ezfive.com/snmpsoft-tools/SnmpGet.zip",
+    "depends":  "",
+    "homepage":  "https://ezfive.com/snmpsoft-tools/snmp-get/",
+    "hash":  "",
+    "bin":  "SnmpGet.exe"
+}
