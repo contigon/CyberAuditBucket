@@ -1,7 +1,7 @@
 {
     "version":  "5.591",
     "license":  "",
-    "extract_dir":  "",
+    "extract_dir":  "ncat-portable-5.59BETA1",
     "url":  "http://nmap.org/dist/ncat-portable-5.59BETA1.zip",
     "depends":  "",
     "homepage":  "https://nmap.org/ncat/",
