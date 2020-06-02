@@ -6,5 +6,5 @@
     "depends":  "",
     "homepage":  "https://nmap.org/ncat/",
     "hash":  "",
-    "bin":  ""
+    "bin":  "ncat.exe"
 }
