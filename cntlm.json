@@ -1,0 +1,10 @@
+{
+    "version":  "0.92.3",
+    "license":  "",
+    "extract_dir":  "cntlm-0.92.3",
+    "url":  "https://phoenixnap.dl.sourceforge.net/project/cntlm/cntlm/cntlm%200.92.3/cntlm-0.92.3-win32.zip",
+    "depends":  "",
+    "homepage":  "http://cntlm.sourceforge.net/",
+    "hash":  "",
+    "bin":  "cntlm.exe"
+}
