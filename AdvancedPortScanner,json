@@ -1,0 +1,9 @@
+{
+    "version": "2.5.3869",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://download.advanced-port-scanner.com/download/files/Advanced_Port_Scanner_2.5.3869.exe#/AdvancedPortScanner.exe",
+    "depends": "",
+    "homepage": "https://www.advanced-port-scanner.com/",
+    "bin": "AdvancedPortScanner.exe"
+}
