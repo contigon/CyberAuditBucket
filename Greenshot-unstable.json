@@ -10,7 +10,7 @@
             "/ALLUSERS",
             "/DIR=$dir"
         ]
-    }
+    },
     "hash": "",
     "bin": "Greenshot.exe",
     "shortcuts": [
