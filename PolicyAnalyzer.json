@@ -6,5 +6,5 @@
     "depends":  "",
     "homepage":  "https://www.microsoft.com/en-us/download/details.aspx?id=55319",
     "hash":  "",
-    "bin":  "PolicyAnalyzer.exe"
+    "bin":  ["PolicyAnalyzer.exe","GPO2PolicyRules.exe","PolicyAnalyzer_GetLocalPolicy.exe","PolicyRulesFileBuilder.exe"]
 }
