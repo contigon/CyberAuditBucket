@@ -1,0 +1,10 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "wsus",
+    "url":  "https://github.com/contigon/Downloads/raw/master/skyboxwsuscollector.rar",
+    "depends":  "",
+    "homepage":  "http://downloads.skyboxsecurity.com/",
+    "hash":  "",
+    "bin":  ["SkyboxWsusCollection4.exe","SkyboxWsusCollection35.exe","SkyboxWsusCollection2.exe"]
+}
