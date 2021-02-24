@@ -5,6 +5,9 @@
     "depends":  "",
     "homepage":  "https://nmap.org/npcap/#download",
     "hash":  "",
-    "bin":  "npcap-1.10.exe",
-    "installer":    "/s"
+    "bin":  "",
+    "installer": {
+        "args": [
+            "/NotAnOEM"        ]
+    }
 }
