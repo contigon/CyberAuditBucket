@@ -7,10 +7,8 @@
     "homepage":  "https://www.skyboxsecurity.com/",
     "hash":  "",
     "bin":  "CheckPointOfflineCollector.exe",
-    "installer": {
-        "script": [
-          "Join-File \"$dir\\SkyboxCheckPointCollector.rar\" -DeletePartFiles",
-          "Expand-7zip \"$dir\\SkyboxCheckPointCollector.rar\"  \"$dir\\""
+    "pre_install": [
+         "Join-File \"$dir\\SkyboxCheckPointCollector.rar\" -DeletePartFiles",
+         "Expand-7zipArchive \"$dir\\SkyboxCheckPointCollector.rar\" -DestinationPath \"$dir\""
         ]
-    }
 }
