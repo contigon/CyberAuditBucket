@@ -12,6 +12,5 @@
         "script": [
           "Join-File \"$dir\\SkyboxCheckPointCollector.rar\" -DeletePartFiles",
           "Expand-Archive -Path \"$dir\\SkyboxCheckPointCollector.rar\" -DestinationPath \"$dir\\""]
-    },
-    "post_install": ""
+    }
 }
