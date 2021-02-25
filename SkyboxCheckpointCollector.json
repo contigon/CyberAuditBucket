@@ -10,7 +10,7 @@
     "installer": {
         "script": [
           "Join-File \"$dir\\SkyboxCheckPointCollector.rar\" -DeletePartFiles",
-          "Expand-Archive -Path \"$dir\\SkyboxCheckPointCollector.rar\" -DestinationPath \"$dir\\""
+          "Expand-7zip \"$dir\\SkyboxCheckPointCollector.rar\"  \"$dir\\" 
         ]
     }
 }
