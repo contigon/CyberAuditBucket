@@ -2,9 +2,9 @@
     "version": "3.0.0",
     "license": "",
     "extract_dir": "",
-    "url": "https://github.com/contigon/Downloads/raw/master/HamsterBuilder.zip",
+    "url": "https://github.com/contigon/Downloads/raw/master/HamsterBuilder.rar",
     "depends": "",
     "homepage": "",
     "hash": "",
-    "bin": "HamsterBuilder.zip"
+    "bin": "HamsterBuilder.rar"
 }
