@@ -1,7 +1,7 @@
 {
     "version": "19.3.9.0",
     "license": "",
-    "extract_dir": "ProgramFiles\\Admin Arsenal\\PDQ Deploy",
+    "extract_dir": "",
     "url": "https://link.pdq.com/dl-deploy-beta",
     "depends": "",
     "homepage": "https://www.pdq.com/",
