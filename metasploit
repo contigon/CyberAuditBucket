@@ -1,0 +1,10 @@
+{
+    "version":  "6.0.33",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://windows.metasploit.com/metasploitframework-latest.msi",
+    "depends":  "",
+    "homepage":  "https://www.metasploit.com/",
+    "hash":  "",
+    "bin":  "program files\\Log Parser 2.2\\LogParser.exe"
+}
