@@ -6,10 +6,10 @@
     "depends":  "",
     "homepage":  "https://www.metasploit.com/",
     "hash":  "",
-    "bin":  "msfconsole.bat",
+    "bin":  "bin\\msfconsole.bat",
     "env_add_path": "bin",
     "pre_install": [
-        "write-host 1234",
+        "write-host \" Please wait while metasploit framework is installed,this can take a few minutes\"",
         "Expand-7zipArchive \"$dir\\metasploit-framework.zip\" \"$dir\""
         ]
 }
