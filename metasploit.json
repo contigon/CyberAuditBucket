@@ -8,7 +8,7 @@
     "hash":  "",
     "bin":  "msfconsole.bat",
     "env_add_path": "bin",
-    "post_install": [
+    "pre_install": [
         "write-host 1234",
         "Expand-7zipArchive \"$dir\\metasploit-framework.zip\" \"$dir\""
         ]
