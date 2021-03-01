@@ -1,10 +1,14 @@
 {
     "version":  "6.0.33",
     "license":  "",
-    "extract_dir":  "",
+    "extract_dir":  "/",
     "url":  "https://windows.metasploit.com/metasploitframework-latest.msi",
     "depends":  "",
     "homepage":  "https://www.metasploit.com/",
     "hash":  "",
-    "bin":  ""
+    "bin":  "",
+    "env_add_path": "bin",
+    "post_install": [
+        "",
+        ]
 }
