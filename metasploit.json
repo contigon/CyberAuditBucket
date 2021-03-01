@@ -6,9 +6,6 @@
     "depends":  "",
     "homepage":  "https://www.metasploit.com/",
     "hash":  "",
-    "bin":  "",
-    "env_add_path": "bin",
-    "post_install": [
-        "",
-        ]
+    "bin":  "msfconsole.bat",
+    "env_add_path": "bin"
 }
