@@ -9,7 +9,7 @@
     "bin":  [
         "bin\\msfconsole.bat",
         "bin\\msfvenom.bat",
-        "bin\msfupdate.bat",
+        "bin\\msfupdate.bat",
         "bin\\msfd.bat",
         "bin\\msfdb.bat"
         ],
