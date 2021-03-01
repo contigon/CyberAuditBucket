@@ -6,7 +6,13 @@
     "depends":  "",
     "homepage":  "https://www.metasploit.com/",
     "hash":  "",
-    "bin":  "bin\\msfconsole.bat",
+    "bin":  [
+        "bin\\msfconsole.bat",
+        "bin\\msfvenom.bat",
+        "bin\msfupdate.bat",
+        "bin\\msfd.bat",
+        "bin\\msfdb.bat"
+        ],
     "env_add_path": "bin",
     "pre_install": [
         "write-host \" Please wait while metasploit framework is installed,this can take a few minutes\"",
