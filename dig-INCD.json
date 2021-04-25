@@ -1,0 +1,10 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://downloads.isc.org/isc/bind9/9.16.13/BIND9.16.13.x64.zip",
+    "depends":  "",
+    "homepage":  "https://www.isc.org",
+    "hash":  "",
+    "bin":  "sfk.exe"
+}
