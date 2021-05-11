@@ -1,7 +1,6 @@
 {
     "version":  "1.0",
     "license":  "",
-    "extract_dir":  "CyberFunctions-master",
     "url":  "https://github.com/contigon/Downloads/raw/master/CyberFunctions.zip",
     "depends":  "",
     "homepage":  "",
@@ -9,8 +8,5 @@
      "psmodule": {
         "name": "CyberFunctions"
     },
-	"scripts": {
-    "update_cfm": "@powershell -NoProfile -ExecutionPolicy Unrestricted -Command $dir\update_cfm.ps1"
-	},
-    "pre_install":" Import-Module -Force \"$dir\" -Verbose"
+    "pre_install":" Import-Module -Force \"$dir\\CyberFunctions\" -Verbose"
 }
