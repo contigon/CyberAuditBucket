@@ -1,0 +1,10 @@
+{
+    "version":  "3.0.3",
+    "license":  "",
+    "extract_dir":  "lynis-master",
+    "url":  "https://github.com/CISOfy/lynis/archive/master.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/CISOfy/lynis",
+    "hash":  "",
+    "notes": "change to root by running: chown -R 0:0  and then run tests using command: ./lynis audit system"
+}
