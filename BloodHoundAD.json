@@ -1,8 +1,8 @@
 {
-    "version": "3.0.5",
+    "version": "4.0.3",
     "license": "",
     "extract_dir": "BloodHound-win32-x64",
-    "url": "https://github.com/BloodHoundAD/BloodHound/releases/download/3.0.5/BloodHound-win32-x64.zip#/BloodHoundAD.zip",
+    "url": "https://github.com/BloodHoundAD/BloodHound/releases/download/4.0.3/BloodHound-win32-x64.zip#/BloodHoundAD.zip",
     "depends": "",
     "homepage": "https://github.com/BloodHoundAD/BloodHound",
     "hash": "",
