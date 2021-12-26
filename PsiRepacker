@@ -1,0 +1,10 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "PsiRepacker-master",
+    "url":  "https://github.com/improsec/PsiRepacker/archive/refs/heads/master.zip",
+    "depends":  "vcredist2017",
+    "homepage":  "https://github.com/improsec/PsiRepacker",
+    "hash":  "",
+    "bin":   "PsiRepacker\\PsiRepacker.exe"
+}
