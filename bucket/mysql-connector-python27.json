@@ -1,0 +1,17 @@
+{
+    "version": "8.0.17",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://cdn.mysql.com//Downloads/Connector-Python/mysql-connector-python-8.0.17-py2.7-windows-x86-64bit.msi",
+    "depends": "",
+    "homepage": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
+    "hash": "5ef51fc40ee2172b2cd6f77f804a3389870e29e9d07abe75ee0dffab78556749",
+    "bin": "",
+    "checkver": {
+        "url": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
+        "regex": "MySQL Installer ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://cdn.mysql.com//Downloads/Connector-Python/mysql-connector-python-$version-py2.7-windows-x86-64bit.msi"
+    }
+}

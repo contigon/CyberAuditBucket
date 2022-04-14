@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://update1.nextron-systems.com/getcore.php?type=sparkcorewin\u0026download=1\u0026type=sparkcorewin#/spark-core-win-pack.zip",
+    "depends":  "",
+    "homepage":  "https://www.nextron-systems.com/spark-core/",
+    "hash":  "",
+    "bin":  "spark-core-win-x64.exe"
+}

@@ -1,0 +1,17 @@
+{
+    "version": "1.12.2",
+    "license": "",
+    "extract_dir": "bin",
+    "url": "https://www.visualsvn.com/files/Apache-Subversion-1.12.2.zip",
+    "depends": "",
+    "homepage": "",
+    "hash": "6eef79b56de2a6a842f1a1c3bcd8bec94b7103c7bd64ba9c8cd02163107d8ef3",
+    "bin": "svn.exe",
+    "checkver": {
+        "url": "https://subversion.apache.org/download.cgi",
+        "re": "#recommended-release\"\\>([\\d.]+)<"
+    },
+    "autoupdate": {
+        "url": "https://www.visualsvn.com/files/Apache-Subversion-$version.zip"
+    }
+}

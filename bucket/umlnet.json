@@ -1,0 +1,15 @@
+﻿{
+    "version":  "14.3",
+    "license":  "",
+    "extract_dir":  "Umlet",
+    "url":  "https://www.umlet.com/download/umlet_14_3/umlet-standalone-14.3.0.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "Umlet.exe",
+    "checkver": {
+        "url": "https://www.umlet.com/download/",
+        "re": ">umlet_([\\d.]+)_([\\d.]+).*\n<tr><th",
+        "replace": "${1}.${2}"
+    }
+}

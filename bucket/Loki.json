@@ -1,0 +1,17 @@
+{
+    "version": "0.30.3",
+    "license": "",
+    "extract_dir": "loki",
+    "url": "https://github.com/Neo23x0/Loki/releases/download/v0.30.3/loki_0.30.3.zip",
+    "depends": "",
+    "homepage": "https://github.com/Neo23x0/Loki",
+    "hash": "7026b38747e020f5257b831a70aa7e9f8204ee716eeb77708d9117d9749d13d2",
+    "bin": [
+        "loki.exe",
+        "loki-upgrader.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Neo23x0/Loki/releases/download/v$version/loki_$version.zip"
+    }
+}

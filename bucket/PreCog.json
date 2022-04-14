@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "PreCog-master",
+    "url":  "https://github.com/cyberark/PreCog/archive/master.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "PreCog.ps1"
+}

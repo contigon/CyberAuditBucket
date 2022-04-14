@@ -1,0 +1,11 @@
+{
+     "version":  "1.7.0",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://go.guardicore.com/e/503441/windows-infectionmonkey/sw3w8/224188289?h=mUHsUksMbr_L0t_cFOYtQ9anoSml4NBZLmArUMBwXaU#/MonkeyIslandSetup.exe",
+    "depends":  "",
+    "homepage":  "https://github.com/guardicore/monkey",
+    "hash":  "",
+    "bin":  "",
+    "pre_install": ""
+}

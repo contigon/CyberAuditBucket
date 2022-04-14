@@ -1,9 +1,0 @@
-{
-    "version": "4.8",
-    "homepage": "https://www.microsoft.com/net/",
-    "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
-    "license": "MIT",
-    "url":  "https://download.visualstudio.microsoft.com/download/pr/7afca223-55d2-470a-8edc-6a1739ae3252/abd170b4b0ec15ad0222a809b761a036/ndp48-x86-x64-allos-enu.exe#/ndp48-x86-x64-allos-enu.exe",
-    "hash": "95889d6de3f2070c07790ad6cf2000d33d9a1bdfc6a381725ab82ab1c314fd53",
-    "bin": ""
-}

@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0",
+    "license":  "",
+    "extract_dir":  "RiskySPN-master",
+    "url":  "https://github.com/cyberark/RiskySPN/archive/master.zip",
+    "depends":  "",
+    "homepage":  "https://github.com/cyberark/RiskySPN",
+    "hash":  "",
+    "bin":  "RiskySPNs.psd1"
+}

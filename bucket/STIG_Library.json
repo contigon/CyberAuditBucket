@@ -1,0 +1,15 @@
+﻿{
+    "version":  "07.2019",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SRG-STIG_Library_2019_07.zip",
+    "depends":  "",
+    "homepage":  "https://public.cyber.mil/stigs/compilations/",
+    "hash":  "",
+    "bin":  "",
+    "checkver": {
+        "url": "https://public.cyber.mil/stigs/compilations/",
+        "re": "NON-FOUO.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*\n.*none;\">(.*) (.*) (.*) ",
+        "replace": "${3}.${2}.${1}"
+    }
+}

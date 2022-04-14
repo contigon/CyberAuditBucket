@@ -1,0 +1,15 @@
+﻿{
+    "version":  "12.12.2014",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765/file/53920/5/LPSV2.D2.zip",
+    "depends":  "",
+    "homepage":  "https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765",
+    "hash":  "cf4e8fb1970230c0cb699324246d14b5406e284e566a1e06717d1b785b77c893",
+    "bin":  "LPSV2.D1\\LPS.exe",
+    "checkver": {
+        "url": "https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765",
+        "regex": "([\\d.]+)\/([\\d.]+)\/([\\d.]+)",
+        "replace": "${1}.${2}.${3}"
+    }
+}

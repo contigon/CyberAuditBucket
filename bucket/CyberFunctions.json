@@ -1,0 +1,12 @@
+{
+    "version":  "1.0",
+    "license":  "",
+    "url":  "https://github.com/contigon/Downloads/raw/master/CyberFunctions.zip",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+     "psmodule": {
+        "name": "CyberFunctions"
+    },
+    "pre_install":" Import-Module -Force \"$dir\\CyberFunctions\" -Verbose"
+}

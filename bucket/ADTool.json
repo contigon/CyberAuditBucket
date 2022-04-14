@@ -1,0 +1,17 @@
+﻿{
+    "homepage": "https://sid-500.com/2018/05/22/active-directory-domain-services-section-version-1-1/",
+    "version": "1.1",
+    "license": "",
+    "extract_dir":  "",
+    "url":  "https://patrick6649.files.wordpress.com/2018/05/ad_1-11.zip#/adTool.zip",
+    "depends":  "",
+    "hash":  "",
+    "bin":  "",
+    "psmodule": {
+        "name": "AD"
+    },
+    "checkver": {
+        "url": "https://sid-500.com/downloads/",
+        "re": "Active Directory Domain Services Section \\(Version ([\\d.]+)\\)"
+    }
+}

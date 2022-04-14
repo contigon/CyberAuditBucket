@@ -1,0 +1,17 @@
+﻿{
+    "version":  "3.1.2",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64.zip",
+    "depends":  "",
+    "homepage":  "https://www.sumatrapdfreader.org/free-pdf-reader.html",
+    "hash":  "",
+    "bin":  "SumatraPDF.exe",
+    "checkver": {
+        "url": "https://www.sumatrapdfreader.org/news.html",
+        "re": "Version history.*\n.*\n.*id=\"(.*)\""
+    },
+    "autoupdate": {
+        "url": "https://www.sumatrapdfreader.org/dl/SumatraPDF-$version-64.zip"
+    }
+}

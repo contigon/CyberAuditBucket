@@ -1,0 +1,28 @@
+{
+    "version": "3.07.0122",
+    "license": "",
+    "extract_dir": "",
+    "url": "http://www.cxlsecure.com/azscan3-install.exe",
+    "depends": "",
+    "homepage": "http://www.cxlsecure.com",
+    "hash": "",
+    "bin": "azscan3.exe",
+    "installer": {
+        "args": [
+            "/SILENT",
+            "/HIDE",
+            "/InstallDir=$dir"
+        ]
+    },
+    "uninstaller": {
+        "file": "azscan3-uninstall.exe",
+        "args": "/Silent"
+    },
+    "checkver": {
+        "url": "http://www.cxlsecure.com/demobz.html",
+        "regex": ">([\\d.]+)<"
+    },
+    "autoupdate": {
+        "url": "http://www.cxlsecure.com/azscan3-install.exe"
+    }
+}

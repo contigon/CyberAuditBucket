@@ -1,0 +1,14 @@
+﻿{
+    "version":  "2.9.1",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_STIGViewer_2-9-1.zip",
+    "depends":  "",
+    "homepage":  "https://public.cyber.mil/stigs/srg-stig-tools/",
+    "hash":  "",
+    "bin":  "STIGViewer-2.9.1.jar",
+    "checkver": {
+        "url": "https://public.cyber.mil/stigs/srg-stig-tools/",
+        "re": "STIG Viewer (\\d.*) -"
+    }
+}
